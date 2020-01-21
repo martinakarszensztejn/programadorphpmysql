@@ -1,0 +1,12 @@
+1.- Instale el Programa, e inicielo.
+2.- Emplee los siguientes datos para registrarlo.
+
+USERNAME...........: www.intercambiosvirtuales.org
+EMAIL..............: user@intercambiosvirtuales.org
+COMPANY............: intercambiosvirtuales.org
+KEY................: DC2B0EE33B2AC1A0C4A18CC02102107501D01D0BD0FD07D08300600C0180
+VALIDATION KEY.....: 7S2FF3
+
+
+Listo !!!!
+
